@@ -1,0 +1,11 @@
+
+praudit was designed and implemented by the fine folks of the (now departed) Solaris. 
+
+The praudit.c file was directly reverse-engineered from Apple's Darwin implementation,
+which for some reason (known only to them) remains closed source.
+
+supraudit is the brainchild of Jonathan Levin, J@NewOSXBook.com, and was first shown
+in the "MacOS/iOS Internals" Trilogy, volume III.
+
+The -J (JSON) output switch was suggested by Pepijn Bruienne (@Bruienne)
+
