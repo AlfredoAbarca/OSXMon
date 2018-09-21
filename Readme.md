@@ -1,4 +1,4 @@
-# MACMon
+# OSXMon
 
 ## Monitoreo de Eventos en MAC para realizar ThreatHunting. 
 
