@@ -2,7 +2,7 @@
 
 ## Monitoreo de Eventos en MAC para realizar ThreatHunting. 
 
-**MACMon** nace de la necesidad de monitorear los eventos que suceden en un equipo con sistema Operativo OS X para detectar amenazas tanto de usuarios malintencionados como de aquellas piezas de malware diseñadas para evadir los controles tradicionales de seguridad (AV, Control de Aplicaciones, etc...) 
+**OSXMon** nace de la necesidad de monitorear los eventos que suceden en un equipo con sistema Operativo OS X para detectar amenazas tanto de usuarios malintencionados como de aquellas piezas de malware diseñadas para evadir los controles tradicionales de seguridad (AV, Control de Aplicaciones, etc...) 
 
 Antes de entrar en los detalles técnicos y alcance de la herramienta quiero agradecer a **Jonathan Levin**, ya que sin su aplicación [Supraudit](http://newosxbook.com/tools/supraudit.html) este proyecto no hubiera sido posible, si tienen alguna duda, comentario, u observación de esta gran aplicación no duden en contactarlo a través de su foro en su sitio web [NewOSXBook](http://newosxbook.com/forum/index.php).
 
